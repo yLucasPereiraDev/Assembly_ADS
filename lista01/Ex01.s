@@ -35,6 +35,6 @@ li $v0, 1
 move $a0, $t2
 syscall
 
-# código 10 do $v0 que encerra o programa
+# codigo 10 do $v0 que encerra o programa
 li $v0, 10
 syscall
