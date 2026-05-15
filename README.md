@@ -38,14 +38,10 @@ O triplo do número, caso seja negativo.
 O segundo número não pode ser zero. O programa deve solicitar novamente até receber um valor válido.
 
 10. No Assembly MIPS existe a instrução REM, responsável por retornar o resto da divisão.
-Sem utilizar a instrução REM, desenvolva um algoritmo utilizando apenas:
-
-*DIV
-*MUL
-*SUB
+Sem utilizar a instrução REM, desenvolva um algoritmo utilizando apenas: DIV, MUL, SUB.
 O programa deve calcular o resto da divisão do maior valor pelo menor.
 
-11. Leia uma quantidade desconhecida de números inteiros e conte quantos pertencem aos seguintes intervalos:
+12. Leia uma quantidade desconhecida de números inteiros e conte quantos pertencem aos seguintes intervalos:
 [0 – 25]
 [26 – 50]
 [51 – 75]
@@ -53,7 +49,7 @@ O programa deve calcular o resto da divisão do maior valor pelo menor.
 A leitura termina quando for digitado um número negativo.
 Validar a entrada para aceitar apenas números entre 0 e 100.
 
-12. Leia a altura, em centímetros, de 15 pessoas e exiba:
+13. Leia a altura, em centímetros, de 15 pessoas e exiba:
 A menor altura do grupo;
 A maior altura do grupo.
 
@@ -108,10 +104,8 @@ inferior às anteriores, deve calcular quantas parcelas serão pagas.
 # Lista 03 – Assembly
 1. Receba comprimento, largura e altura de um paralelepípedo e calcule seu volume.
 
-2. Receba o raio de uma circunferência e calcule seu comprimento.
-Considere:
-
-π = 3.
+2. Receba o raio de uma circunferência e calcule seu comprimento. 
+Considere: π = 3.
 
 3. Leia dois valores inteiros e mostre a diferença entre o maior e o menor valor.
 
@@ -126,5 +120,3 @@ Considere:
 O maior valor;
 O menor valor.
 Caso um número negativo seja informado, ele deverá ser desconsiderado e solicitado novamente.
-
-# Lista 03 – Assembly
